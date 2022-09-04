@@ -1,5 +1,7 @@
 # IDOIT TOWER 문제
 
+링크 : https://idiot-front.vercel.app/
+
 ## 개요
 
 가상의 아티스트 그룹 Idiots에서는 자신들만의 NFT를 만들어보고 싶어졌다. 하지만, 이 그룹은 매우 특이한 그룹이라 평범한 NFT로는 만족하지 못하고, 새로운 형태의 NFT를 만들고 싶어졌다.
