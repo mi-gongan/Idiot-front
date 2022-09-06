@@ -64,14 +64,22 @@
 
 유저리스트와 coward 리스트를 볼 수 있습니다.
 
+<img width="487" alt="스크린샷 2022-09-06 오전 11 47 37" src="https://user-images.githubusercontent.com/97350083/188536440-bb38aea8-89ea-4d6e-9082-a12d0b113f4b.png">
+
+
 ### /minting
 
 색깔별 민팅된 갯수를 볼수 있으며 민팅을 할 수 있습니다.
+
+<img width="354" alt="스크린샷 2022-09-06 오전 11 46 59" src="https://user-images.githubusercontent.com/97350083/188536402-ab5456d4-b7db-4007-8dec-10bb3f2db34e.png">
+
 
 ### /mypage
 
 - 내 계정에 대한 정보(겁쟁이 여부, 민팅 여부, 토큰 갯수)를 보여주며 가지고 있는 토큰을 가지고 옵니다.
 - NFT 선물하기 버튼을 누르면 주소를 입력받을 수 있는 창이 나오며 주소를 누르고 전송하면 해당하는 NFT를 전달합니다.
+
+<img width="523" alt="스크린샷 2022-09-06 오전 11 47 50" src="https://user-images.githubusercontent.com/97350083/188536527-a15ca596-7567-473c-a0ee-4c1d57c87986.png">
 
 ## 테스트 코드
 
